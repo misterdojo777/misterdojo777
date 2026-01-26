@@ -11,7 +11,8 @@
 <br/>
 
 <p>
-Hello there! I'm Declan, a builder passionate about fast, local-first software. I enjoy creating offline applications with Rust, Tauri, and Svelte, always aiming for a minimal and instant experience. Outside of coding, I work in Blender to bring ideas to life and explore new design possibilities.
+Hello there, My name is Dojo and I love engineering, videogames and making music (and doing silly dances when nobody is watching). You make me more productive by feeding me sourdough bread & cheese. 
+
 
 </p>
 
