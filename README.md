@@ -11,7 +11,7 @@
 <br/>
 
 <p>
-Hello there, My name is Dojo and I love engineering, videogames and making music (and doing silly dances when nobody is watching). You make me more productive by feeding me sourdough bread & cheese. 
+Hello there, My name is Dojo and I love engineering, (making)videogames and writing/playing music. Always open for new connections so feel free to reach out.
 
 
 </p>
