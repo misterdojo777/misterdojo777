@@ -11,7 +11,8 @@
 <br/>
 
 <p>
-Hello there, My name is Dojo and I love engineering, (making)videogames and writing/playing music. Always open for new connections so feel free to reach out.
+ 
+I'm afraid I suffer from enginitis 
 
 
 </p>
@@ -28,7 +29,10 @@ Hello there, My name is Dojo and I love engineering, (making)videogames and writ
   <img src="https://img.shields.io/badge/Blender-ffffff?style=for-the-badge&logo=blender&logoColor=black" />
   <img src="https://img.shields.io/badge/UnrealEngine-ffffff?style=for-the-badge&logo=unrealengine&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/Typescript-ffffff?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-ffffff?style=for-the-badge&logo=python&logoColor=black" />
   <img src="https://img.shields.io/badge/OpenCode-ffffff?style=for-the-badge&logo=opencode&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pi-ffffff?style=for-the-badge&logo=opencode&logoColor=black" />
   <img src="https://img.shields.io/badge/Godot-ffffff?style=for-the-badge&logo=godot&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=black" />
 
